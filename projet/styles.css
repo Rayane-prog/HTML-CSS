@@ -1,0 +1,32 @@
+
+/* Réinitialiser les marges et padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar
+{
+    background-color: black;
+
+}
+
+.bar
+{
+    color: white;
+    display: inline-block;
+}
+
+.help-center
+{
+    display: inline-block;
+    vertical-align: middle;
+    color:white;
+}
+
+.logo
+{
+    width: 100px;
+    margin-left: 100px;
+    margin-right: 10px;
+}
